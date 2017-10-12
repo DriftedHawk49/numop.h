@@ -36,3 +36,26 @@ i) To check whether a number is prime or not , we have a function "prime_check(*
 6. Check Whether a Number is Armstrong Number
 7. Return a vector containing Armstrong Numbers b/w a range.
 8. Function Returning all the factors of a number in a vector.
+
+
+# How To use these Files In your program ?
+
+----------------------------------------------------FOR LINUX USERS--------------------------------------------------------
+in terminal , which is open in your current working directory , let the file name in which your code exists be "myfile.cpp"
+
+Write this code then - 
+g++ myfile.cpp numop.cpp numop.h
+./a.out
+
+
+---------------------------------------------------For Windows Users---------------------------------------------------------
+
+Whatever IDE you use (Except For TURBO C++ , These files won't work in Turbo C++)
+Just include these files in your project whichever you are using ,
+And make sure linking of files is turned on for these files. 
+Then build project & it should Work :)
+
+
+
+
+# Please Contribute By adding further Functions SO that We can grown this Library , YOu can add your own Features too If You feel they'll be convinient for our fellow programmers.
