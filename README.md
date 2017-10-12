@@ -41,6 +41,7 @@ i) To check whether a number is prime or not , we have a function "prime_check(*
 # How To use these Files In your program ?
 
 ----------------------------------------------------FOR LINUX USERS--------------------------------------------------------
+
 in terminal , which is open in your current working directory , let the file name in which your code exists be "myfile.cpp"
 
 Write this code then - 
