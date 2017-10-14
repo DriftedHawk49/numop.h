@@ -18,7 +18,7 @@ e) For Returning maximum digit present in your number, We have a function "maxdi
 
 f) For Returning minimum digit present in your number, We have a function "mindig<data type> (*your number*)" which returns minimum digit present in the number.
 
-g) Function "bincal<data type> (*your number*)" will return a vector having the binary equivalent of that number , in that order.
+g) Function "bincal<data type> (*your number*)" will return a vector having the binary equivalent of that number , in that order. 
     
 
 h) To check whether a number is odd or even , we have a function "oddeven<data type> (*your number*)" which returns 1 if that number is odd , and 0 if that number is 0.
