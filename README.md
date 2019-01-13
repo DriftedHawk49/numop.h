@@ -24,7 +24,7 @@ A C++ Header File Containing Some Handy Functions to Help you out in Computing R
 7. **bincal** : Function *"bincal<data type> (*your number*)"* will return a vector having the binary equivalent of that number , in that order. 
     
 
-8. **oddeven** : To check whether a number is odd or even , we have a function *"oddeven<data type> (*your number*)"* which returns 1 if that number is odd , and 0 if that number is 0.
+8. **oddeven** : To check whether a number is odd or even , we have a function *"oddeven<data type> (*your number*)"* which returns 1 if that number is odd , and 0 if that number is even.
 
 9. **prime_check** : To check whether a number is prime or not , we have a function *"prime_check<data type> (*your number*)"* which will return 1 if it is a prime number , else it'll return 0. 
 
