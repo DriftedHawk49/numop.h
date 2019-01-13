@@ -20,15 +20,15 @@ template<typename t>
 int maxdig(t);// Returns the maximum digit present in that number
 
 template<typename t>
-int mindig(t);
+int mindig(t); // returns the minimum digit in given number.
 
 template<typename t>
-std::vector<int> bincal(t);//done
+std::vector<int> bincal(t);// returns a vector binary number equivalent of input number
 
 template<typename t>
-int oddeven(t);//done
+int oddeven(t);// returns whether a odd number or even.
 
 template<typename t>
-int prime_check(t);//done
+int prime_check(t);// Returns whether a prime number or not.
 
 #endif
