@@ -7,7 +7,7 @@ A C++ Header File Containing Some Handy Functions to Help you out in Computing R
 3. These functions come in handy when you're in middle of programming and you need them to compute something more important, so rather than making a function for that, use this. 
 
 ## Functions 
-1. **number_of_digits** : For Counting Total Number of Digits in an Integer , function *"number_of_digits<data type> (*your number*)"* can be used , which returns Number of digits present in that number returns.
+1. **number_of_digits** : For Counting Total Number of Digits in an Integer , function *"number_of_digits<data type> (*your number*)"* can be used , which returns Number of digits present in that number.
 
 2. **ifpallin** : For checking whether a number is a pallindrome or not , use function *"ifpallin<data type> (*your number*)"* which returns 1 , if it is a pallindrome , else it returns 0 if it is not a pallindrome.
 
